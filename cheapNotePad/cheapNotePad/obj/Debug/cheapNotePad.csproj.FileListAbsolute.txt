@@ -1,0 +1,14 @@
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\bin\Debug\cheapNotePad.exe.config
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\MainWindow.g.cs
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\App.g.cs
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad_MarkupCompile.cache
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad_MarkupCompile.lref
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\bin\Debug\cheapNotePad.exe
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\bin\Debug\cheapNotePad.pdb
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\MainWindow.baml
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.g.resources
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.Properties.Resources.resources
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.csproj.GenerateResource.Cache
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.exe
+\\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.pdb
