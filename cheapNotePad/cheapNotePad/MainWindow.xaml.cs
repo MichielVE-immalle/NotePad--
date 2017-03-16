@@ -61,11 +61,11 @@ namespace cheapNotePad
                 {
                     currentFile = dialog.FileName + ".txt";
                     File.WriteAllText(dialog.FileName, currentFile);
+                    StreamWriter outputStream = File.CreateText(currentFile);
+                    outputStream.Write(schrijfPanel.Text);
+                    outputStream.Close();
                 }
             }
-            StreamWriter outputStream = File.CreateText(currentFile);
-            outputStream.Write(schrijfPanel.Text);
-            outputStream.Close();
         }
 
         private void About_Click(object sender, RoutedEventArgs e)
