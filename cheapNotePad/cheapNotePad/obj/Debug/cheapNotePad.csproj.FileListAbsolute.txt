@@ -12,3 +12,17 @@
 \\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.csproj.GenerateResource.Cache
 \\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.exe
 \\imma-fs-0003\michiel.vaneester$\documents\visual studio 2015\Projects\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.pdb
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\bin\Debug\cheapNotePad.exe.config
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.exe
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.pdb
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\bin\Debug\cheapNotePad.exe
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\bin\Debug\cheapNotePad.pdb
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.csprojResolveAssemblyReference.cache
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\MainWindow.g.cs
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\App.g.cs
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad_MarkupCompile.cache
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad_MarkupCompile.lref
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\MainWindow.baml
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.g.resources
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.Properties.Resources.resources
+C:\Users\michiel\Documents\Visual Studio 2015\Projects\notepad--\cheapNotePad\cheapNotePad\obj\Debug\cheapNotePad.csproj.GenerateResource.Cache

@@ -34,7 +34,10 @@ namespace cheapNotePad
 
         private void exitItem_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
+            if (MessageBox.Show("Bent u zeker dat u wil stoppen", "Exit", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+            {
+                Application.Current.Shutdown();
+            }
         }
 
         private void Open_Click(object sender, RoutedEventArgs e)
