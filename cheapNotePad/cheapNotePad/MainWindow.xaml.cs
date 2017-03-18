@@ -92,6 +92,25 @@ namespace cheapNotePad
 
         private void Nieuw_Click(object sender, RoutedEventArgs e)
         {
+            if (MessageBox.Show("Unsaved progress will be lost. Do you want to save", "New pad", MessageBoxButton.YesNo, MessageBoxImage.Information) == MessageBoxResult.Yes)
+            {
+                if (currentFile == "")
+                {
+                    SaveFileDialog dialog = new SaveFileDialog();
+                    dialog.InitialDirectory = initialDir;
+                    dialog.Filter = "Doc Files | *txt;";
+                    if (dialog.ShowDialog() == true)
+                    {
+                        currentFile = dialog.FileName + ".txt";
+                        File.WriteAllText(dialog.FileName, currentFile);
+                        StreamWriter outputStream = File.CreateText(currentFile);
+                        outputStream.Write(schrijfPanel.Text);
+                        outputStream.Close();
+                    }
+
+                    schrijfPanel.Clear();
+                }
+            }
             schrijfPanel.Clear();
         }
     }
